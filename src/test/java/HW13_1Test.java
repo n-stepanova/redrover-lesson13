@@ -1,7 +1,7 @@
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class HW131Test {
+public class HW13_1Test {
 
     @Test
     public void testSum(){
